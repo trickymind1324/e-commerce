@@ -1,3 +1,6 @@
+# E-commerce DEMO 
+A simple e-commerce web app made using React JS and Firebase. It is still in development stage, many more things has to be implemented
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
